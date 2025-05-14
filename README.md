@@ -16,10 +16,5 @@ The `UNet` model follows the standard symmetric encoder/decoder sequence with fo
 
 **Medical Image Segmentation.ipynb**: project code
 
-**Dataset**: contains Training and Test data
+**Dataset**: Can be downloaded following this [link](https://www.kaggle.com/competitions/a0-2025-medical-image-segmentation/data)
 
-**best_unet_model.pth**: weights for best performing model (can be loaded in latter part of notebook)
-
-**val_outputs**: Contains images, predicted, and ground truth masks for select validation data for each epoch
-
-**Predicted_Masks**: Predicted masks for test dataset
